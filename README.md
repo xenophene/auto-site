@@ -1,8 +1,6 @@
 Usage: 
-Run python create.py to generate an initial set of HTML pages
-which you can then manually tune to best suit your needs. In most cases, 
-this bare-bones site should be minimalistically appealing and work well as a
-portfolio.
+Run python app.py to open a dialog box. Fix in the details, hit submit and a barebones
+site will be created within the website folder! You can then start tweaking this folder.
 
 Pre-requisite: A basic knowledge of HTML is required to understand how to
 further refine the output of this python script to suit your needs.
@@ -14,6 +12,3 @@ here, to get the barebones structure of your website, which can be further
 tweaked from the HTML/JS source.
 The required libraries are Bootstrap and jQuery, both of which are already
 included in this directory.
-
-All you have to do is open constants.py, change a few things as per your need
-and run create.py
