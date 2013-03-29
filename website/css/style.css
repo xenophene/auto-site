@@ -1,0 +1,72 @@
+body {
+  padding-top: 60px;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  overflow: -moz-scrollbars-vertical;
+}
+a:selected, a:active {
+  outline: none;
+}
+.hero-unit p {
+  text-align: justify;
+}
+.hero-unit h1 {
+  margin-bottom: 30px;
+  font-size: 40px;
+}
+div.me {
+  padding: 40px 0 0 20px;
+  text-align: center;
+}
+div.me img {
+  border: solid 3px #555;
+}
+div.me legend {
+  font-size: 18px;
+}
+span.heading {
+  font-weight: bold;
+  font-size: 13px;
+}
+.tab-pane ul {
+  margin: 5px 0 0px 0;
+}
+#projs .tab-pane ul li {
+  margin: 5px 0 10px 0;
+}
+h1.proj {
+  margin-bottom: 20px;
+}
+.img-list {
+  list-style: none;
+  overflow: auto;
+}
+.img-list li {
+  display:inline;
+  float:left;
+  padding: 0 0 0 5px;
+}
+.brad {
+  height:374px;
+  width:340px; 
+}
+.monroe {
+  height:500px;
+  width:320px; 
+}
+.tab-space {
+  margin-top:10px;
+}
+#cmt {
+  resize: none;
+}
+.contact-margin {
+  margin-top: 20px;
+  padding-top: 10px;
+}
+.songs dt {
+  width: 140px;
+}
+.songs dd {
+  margin-left: 150px;
+}
